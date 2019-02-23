@@ -1,0 +1,11 @@
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\bin\Debug\netcoreapp2.1\GameOfFighterplane.deps.json
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\bin\Debug\netcoreapp2.1\GameOfFighterplane.runtimeconfig.json
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\bin\Debug\netcoreapp2.1\GameOfFighterplane.runtimeconfig.dev.json
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\bin\Debug\netcoreapp2.1\GameOfFighterplane.dll
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\bin\Debug\netcoreapp2.1\GameOfFighterplane.pdb
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\obj\Debug\netcoreapp2.1\GameOfFighterplane.csprojAssemblyReference.cache
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\obj\Debug\netcoreapp2.1\GameOfFighterplane.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\obj\Debug\netcoreapp2.1\GameOfFighterplane.AssemblyInfoInputs.cache
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\obj\Debug\netcoreapp2.1\GameOfFighterplane.AssemblyInfo.cs
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\obj\Debug\netcoreapp2.1\GameOfFighterplane.dll
+E:\Programming\C# Project\GameOfFighterplane\GameOfFighterplane\obj\Debug\netcoreapp2.1\GameOfFighterplane.pdb
